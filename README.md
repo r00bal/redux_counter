@@ -1,1 +1,1 @@
-This simpe App to train using react-redux 
+This simpe App to train react-redux 
